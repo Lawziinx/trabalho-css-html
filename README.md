@@ -1,33 +1,51 @@
-# Site sobre Basquete
+# Imagens do Projeto
 
-Trabalho de Web - CSS e HTML
+Esta pasta contém todas as imagens utilizadas no site Café Aroma.
 
-## Descrição
-Este é um site simples sobre basquete com 4 páginas.
+## Imagens Necessárias
 
-## Páginas
-- **index.html** - Página inicial
-- **historia.html** - História do basquete
-- **regras.html** - Regras do jogo
-- **contato.html** - Formulário de contato
+### Logo
+- `logo.png` - Logo da cafeteria (60x60px)
 
-## Tecnologias
-- HTML5
-- CSS3
+### Página Inicial
+- `cafe-principal.jpg` - Imagem de café sendo preparado
+- `cafe1.jpg` - Café expresso
+- `cafe2.jpg` - Cappuccino
+- `cafe3.jpg` - Latte art
+- `cafe4.jpg` - Ambiente da cafeteria
 
-## Como usar
-Abra o arquivo index.html no navegador.
+### Página Cardápio
+- `expresso.jpg` - Foto de expresso
+- `cappuccino.jpg` - Foto de cappuccino
+- `latte.jpg` - Foto de latte
+- `mocha.jpg` - Foto de mocha
+- `iced-coffee.jpg` - Foto de café gelado
+- `frappuccino.jpg` - Foto de frappuccino
+- `croissant.jpg` - Foto de croissant
+- `brownie.jpg` - Foto de brownie
+- `cheesecake.jpg` - Foto de cheesecake
 
-## Requisitos atendidos
-✅ Mínimo de 4 páginas HTML  
-✅ Arquivo CSS em pasta separada  
-✅ Cabeçalho com logo, título e menu  
-✅ Rodapé com contatos e redes sociais  
-✅ Textos e imagens  
-✅ Vídeo do YouTube  
-✅ Listas com subitens  
-✅ Formulário com mais de 5 controles  
-✅ CSS com pseudo-classes (:hover, :focus)  
-✅ Flexbox para conteúdo lado a lado  
-✅ Pelo menos 3 cores diferentes  
-✅ Pelo menos 3 fontes diferentes  
+### Página Sobre
+- `fundadores.jpg` - Foto dos fundadores
+- `ambiente.jpg` - Foto do ambiente da cafeteria
+- `maria.jpg` - Foto da Maria Silva
+- `joao.jpg` - Foto do João Santos
+- `ana.jpg` - Foto da Ana Costa
+- `pedro.jpg` - Foto do Pedro Oliveira
+
+## Sugestões de Fontes de Imagens
+
+- [Unsplash](https://unsplash.com) - Fotos gratuitas de alta qualidade
+- [Pexels](https://pexels.com) - Banco de imagens gratuito
+- [Pixabay](https://pixabay.com) - Imagens e vetores gratuitos
+
+## Termos de Busca Recomendados
+
+- "coffee shop"
+- "espresso"
+- "cappuccino"
+- "latte art"
+- "cafe interior"
+- "barista"
+- "croissant"
+- "dessert"
